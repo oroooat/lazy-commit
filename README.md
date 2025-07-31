@@ -2,7 +2,7 @@
 
 *A @oroooat Production*
 
-![image](https://i.ibb.co/v6brjHMZ/SCR-20250731-kmuf.png)](https://i.ibb.co/v6brjHMZ/SCR-20250731-kmuf.png)
+![image](https://i.ibb.co/v6brjHMZ/SCR-20250731-kmuf.png)
 ---
 
 ## Chapter I: The Peculiar Case of the Automated Git Commit
