@@ -1,8 +1,7 @@
 # The Lazy-Commit
 
 *A @oroooat Production*
-
-![image](https://i.ibb.co/v6brjHMZ/SCR-20250731-kmuf.png)
+[![FUazZBV.md.png](https://iili.io/FUazZBV.md.png)](https://freeimage.host/i/FUazZBV)
 ---
 
 ## Chapter I: The Peculiar Case of the Automated Git Commit
