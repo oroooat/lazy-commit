@@ -1,0 +1,39 @@
+{
+  "name": "@oroooat/lazy-commit",
+  "version": "1.0.0",
+  "description": "A @oroooat Production: AI-powered commit message generator with the precision of a Swiss timepiece and the charm of automatically commit",
+  "main": "lazy-commit.js",
+  "bin": {
+    "lazy-commit": "./lazy-commit.js"
+  },
+  "scripts": {
+    "start": "node lazy-commit.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "ai",
+    "openrouter",
+    "ollama",
+    "automation",
+    "conventional-commits",
+    "cli",
+    "developer-tools",
+    "wes-anderson"
+  ],
+  "author": "@oroooat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oroooat/lazy-commit.git"
+  },
+  "homepage": "https://github.com/oroooat/lazy-commit#readme",
+  "bugs": {
+    "url": "https://github.com/oroooat/lazy-commit/issues"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
