@@ -1,6 +1,6 @@
 # The Lazy-Commit
 
-*A Wes Anderson Production*
+*A @oroooat Production*
 
 ---
 
